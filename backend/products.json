@@ -1,0 +1,1406 @@
+[
+  {
+    "_id": "68e94f09fa2670ed2f61bebd",
+    "name": "Elixer Stay Ideal Foundation",
+    "description": "Elixer Stay Ideal Foundation is an all-in-one, long-lasting base designed to give your skin a smooth, flawless, and even-toned finish. Its lightweight, buildable formula offers medium to full coverage that conceals imperfections while feeling comfortable on the skin. The semi-matte texture helps control shine, making it ideal for normal to combination skin types, and its stay-proof formula ensures a fresh look that lasts throughout the day. Easy to blend and suitable for everyday wear, Elixer Stay Ideal Foundation enhances your natural beauty with a radiant yet balanced finish, leaving your complexion looking effortlessly perfect.",
+    "price": 999,
+    "discountPercent": 10,
+    "category": "68e9188758362dfb3d66a653",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760120582/ecommerce/products/op9tm7en4vzyvc1xetaj.jpg",
+        "alt": "Elixer Stay Ideal Foundation ",
+        "publicId": "ecommerce/products/op9tm7en4vzyvc1xetaj",
+        "_id": "68e94f09fa2670ed2f61bebe"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760120583/ecommerce/products/euxhront7l4evdtacv9z.jpg",
+        "alt": "Elixer Stay Ideal Foundation ",
+        "publicId": "ecommerce/products/euxhront7l4evdtacv9z",
+        "_id": "68e94f09fa2670ed2f61bebf"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760120584/ecommerce/products/targzj0d5ztzdrunogse.jpg",
+        "alt": "Elixer Stay Ideal Foundation ",
+        "publicId": "ecommerce/products/targzj0d5ztzdrunogse",
+        "_id": "68e94f09fa2670ed2f61bec0"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760120585/ecommerce/products/xoeyhnlqlwfjotws7jlr.jpg",
+        "alt": "Elixer Stay Ideal Foundation ",
+        "publicId": "ecommerce/products/xoeyhnlqlwfjotws7jlr",
+        "_id": "68e94f09fa2670ed2f61bec1"
+      }
+    ],
+    "inventory": {
+      "quantity": 500,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-10T18:23:05.642Z",
+    "updatedAt": "2025-10-20T15:44:54.275Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e960851ca4d0609e5ddd74",
+    "name": "Elixer blushon 3 in 1",
+    "description": "Blush-on adds a natural, radiant flush to your cheeks, enhancing your complexion with a healthy, youthful glow. Its silky-smooth texture blends effortlessly, giving your face a soft pop of color that complements any makeup look. Perfect for both day and night wear, blush-on helps define your cheekbones and bring warmth to your overall appearance. Whether you prefer a subtle hint of pink or a bold rosy finish, it instantly brightens your face for a fresh, lively look.",
+    "price": 920,
+    "discountPercent": 0,
+    "category": "68e919e558362dfb3d66a667",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760125060/ecommerce/products/wkjvvflvwfrpj6rbviob.jpg",
+        "alt": "Elixer blushon 3 in 1",
+        "publicId": "ecommerce/products/wkjvvflvwfrpj6rbviob",
+        "_id": "68e960851ca4d0609e5ddd75"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760975017/ecommerce/products/g1j4yb0vqc5zgkcvlr0b.png",
+        "alt": "Elixer blushon 3 in 1",
+        "publicId": "ecommerce/products/g1j4yb0vqc5zgkcvlr0b",
+        "_id": "68f658afd41b6843b65c5d0c"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039892/ecommerce/products/kr5zpgvsxvubkxoi17pq.jpg",
+        "alt": "Elixer blushon 3 in 1",
+        "publicId": "ecommerce/products/kr5zpgvsxvubkxoi17pq",
+        "_id": "68f7561559d2baf10eb04f6d"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039893/ecommerce/products/prlfppcgb8bdyam0hkgz.jpg",
+        "alt": "Elixer blushon 3 in 1",
+        "publicId": "ecommerce/products/prlfppcgb8bdyam0hkgz",
+        "_id": "68f7561559d2baf10eb04f6e"
+      }
+    ],
+    "inventory": {
+      "quantity": 200,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-10T19:37:41.210Z",
+    "updatedAt": "2025-10-21T09:44:53.478Z",
+    "__v": 2
+  },
+  {
+    "_id": "68e961515dc7d7c30b52c856",
+    "name": "Elixer highlighter",
+    "description": "Highlighter enhances your natural beauty by adding a luminous glow to your face. Its light-reflecting pigments give your skin a radiant, dewy finish, making your features stand out beautifully. Perfect for accentuating your cheekbones, brow bones, nose bridge, and cupid’s bow, it adds the perfect touch of shimmer and dimension. Whether you prefer a soft, subtle glow or a dazzling shine, highlighter brings that lit-from-within look, leaving your skin looking fresh, youthful, and effortlessly glamorous.",
+    "price": 850,
+    "discountPercent": 0,
+    "category": "68e91a42f5c8609b337c44ff",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760125264/ecommerce/products/h1kqawzybidqhbioo7to.jpg",
+        "alt": "Elixer highlighter ",
+        "publicId": "ecommerce/products/h1kqawzybidqhbioo7to",
+        "_id": "68e961515dc7d7c30b52c857"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039968/ecommerce/products/fpbqxhpu2wqvpxokoxu6.jpg",
+        "alt": "Elixer highlighter",
+        "publicId": "ecommerce/products/fpbqxhpu2wqvpxokoxu6",
+        "_id": "68f7566159d2baf10eb05006"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039969/ecommerce/products/whstlwg1vpjwuaab4vpp.jpg",
+        "alt": "Elixer highlighter",
+        "publicId": "ecommerce/products/whstlwg1vpjwuaab4vpp",
+        "_id": "68f7566159d2baf10eb05007"
+      }
+    ],
+    "inventory": {
+      "quantity": 300,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-10T19:41:05.092Z",
+    "updatedAt": "2025-10-21T09:46:09.836Z",
+    "__v": 1
+  },
+  {
+    "_id": "68e961945dc7d7c30b52c86e",
+    "name": "Elixer Primer",
+    "description": "Primer creates the perfect base for flawless makeup application. It smooths out your skin’s texture, blurs pores and fine lines, and helps makeup last longer throughout the day. With its lightweight and silky formula, primer ensures an even surface, allowing foundation and other products to glide on seamlessly. It also controls excess oil and keeps your makeup fresh, whether you prefer a matte or radiant finish. A must-have first step for achieving a smooth, long-lasting, and picture-perfect look.",
+    "price": 900,
+    "discountPercent": 0,
+    "category": "68e9188758362dfb3d66a653",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760125330/ecommerce/products/msz0qe2mlzmc4heacxtp.jpg",
+        "alt": "Elixer Primer",
+        "publicId": "ecommerce/products/msz0qe2mlzmc4heacxtp",
+        "_id": "68e961945dc7d7c30b52c86f"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760125331/ecommerce/products/marlx2bzbhvvgtt1bjgg.jpg",
+        "alt": "Elixer Primer",
+        "publicId": "ecommerce/products/marlx2bzbhvvgtt1bjgg",
+        "_id": "68e961945dc7d7c30b52c870"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761041929/ecommerce/products/lpdweoa8yyfprmkwzjso.jpg",
+        "alt": "Elixer Primer",
+        "publicId": "ecommerce/products/lpdweoa8yyfprmkwzjso",
+        "_id": "68f75e09b2eaf71d489a6bf8"
+      }
+    ],
+    "inventory": {
+      "quantity": 599,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-10T19:42:12.756Z",
+    "updatedAt": "2025-10-21T10:18:49.654Z",
+    "__v": 1
+  },
+  {
+    "_id": "68eb818ee45a60a8ce313a09",
+    "name": "Elixer long lasting eyelash glue",
+    "description": "Eyelash glue is the secret to long-lasting, flawless lash application. Its strong yet gentle formula ensures your lashes stay perfectly in place all day without irritation or residue. Designed for precision and comfort, it dries clear for a seamless, natural look while keeping your lashes secure through every blink. Whether for everyday elegance or glam nights, a reliable eyelash glue completes your eye look with confidence and perfection.",
+    "price": 300,
+    "discountPercent": 0,
+    "category": "68e9190c58362dfb3d66a65b",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760866699/ecommerce/products/b7qij38iqo3qgimmfamb.png",
+        "alt": "Elixer long lasting eyelash glue",
+        "publicId": "ecommerce/products/b7qij38iqo3qgimmfamb",
+        "_id": "68f4b18cb24712d97db42baf"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760866699/ecommerce/products/acjcleweuwktszwxdakw.png",
+        "alt": "Elixer long lasting eyelash glue",
+        "publicId": "ecommerce/products/acjcleweuwktszwxdakw",
+        "_id": "68f4b18cb24712d97db42bb0"
+      }
+    ],
+    "inventory": {
+      "quantity": 90,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-12T10:23:10.585Z",
+    "updatedAt": "2025-10-20T15:36:39.304Z",
+    "__v": 1
+  },
+  {
+    "_id": "68eb81ede45a60a8ce313a22",
+    "name": "Elixer eye pencils",
+    "description": "Eye pencils are the ultimate tool to define, enhance, and express your eyes with effortless precision. Their smooth, creamy texture glides on easily for rich color payoff—perfect for bold lines, soft smudges, or a smoky finish. Long-lasting and smudge-proof, eye pencils bring intensity and depth to your look, making your eyes stand out beautifully from day to night.",
+    "price": 249,
+    "discountPercent": 0,
+    "category": "68e9190c58362dfb3d66a65b",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760974493/ecommerce/products/s3jcyd16ztq70vtmdopw.png",
+        "alt": "Elixer eye pencils",
+        "publicId": "ecommerce/products/s3jcyd16ztq70vtmdopw",
+        "_id": "68f656b8fa652cc1d75f0e1f"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760974498/ecommerce/products/tvqqx5skofq6bw8zbyvt.png",
+        "alt": "Elixer eye pencils",
+        "publicId": "ecommerce/products/tvqqx5skofq6bw8zbyvt",
+        "_id": "68f656b8fa652cc1d75f0e20"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760974504/ecommerce/products/ksp6zqssvtjbvkmwwwd0.png",
+        "alt": "Elixer eye pencils",
+        "publicId": "ecommerce/products/ksp6zqssvtjbvkmwwwd0",
+        "_id": "68f656b8fa652cc1d75f0e21"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760974511/ecommerce/products/bypx6f65kjqegpueiawd.png",
+        "alt": "Elixer eye pencils",
+        "publicId": "ecommerce/products/bypx6f65kjqegpueiawd",
+        "_id": "68f656b8fa652cc1d75f0e22"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760974516/ecommerce/products/ajdp1ompntzl3kmijzsn.png",
+        "alt": "Elixer eye pencils",
+        "publicId": "ecommerce/products/ajdp1ompntzl3kmijzsn",
+        "_id": "68f656b8fa652cc1d75f0e23"
+      }
+    ],
+    "inventory": {
+      "quantity": 1000,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-12T10:24:45.205Z",
+    "updatedAt": "2025-10-20T15:35:20.647Z",
+    "__v": 1
+  },
+  {
+    "_id": "68eb82c0e45a60a8ce313a76",
+    "name": "Elixer nail tissue remover",
+    "description": "Elixer Nail Tissue Remover offers a quick, effortless way to remove nail polish without the mess. Infused with nourishing ingredients, each tissue gently cleanses your nails while keeping them soft and hydrated. Its travel-friendly design makes it perfect for on-the-go touch-ups—no cotton or liquid needed. With Elixer, enjoy clean, refreshed nails anytime, anywhere, with a gentle yet powerful formula that cares for your nails as it cleans.",
+    "price": 199,
+    "discountPercent": 0,
+    "category": "68e91b04f5c8609b337c4511",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760866342/ecommerce/products/m84otbyfz64kmdqvxor0.jpg",
+        "alt": "Elixer nail tissue remover",
+        "publicId": "ecommerce/products/m84otbyfz64kmdqvxor0",
+        "_id": "68f4b027d733e61f2c23ea25"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760866342/ecommerce/products/mxlbguquajizr9xboz2n.jpg",
+        "alt": "Elixer nail tissue remover",
+        "publicId": "ecommerce/products/mxlbguquajizr9xboz2n",
+        "_id": "68f4b027d733e61f2c23ea26"
+      }
+    ],
+    "inventory": {
+      "quantity": 200,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-12T10:28:16.542Z",
+    "updatedAt": "2025-10-20T15:41:10.464Z",
+    "__v": 1
+  },
+  {
+    "_id": "68eb8362e45a60a8ce313a8a",
+    "name": "Elixer 36 colour eyeshadow palette (Set-A)",
+    "description": "The 36 Colour Eyeshadow Palette is your ultimate canvas for creativity and expression. Featuring a stunning range of shades—from soft neutrals to bold, vibrant tones—it allows endless looks for every mood and occasion. Each pigment is richly formulated for smooth blending, high color payoff, and long-lasting wear. With matte, shimmer, and metallic finishes, this palette lets you effortlessly transition from everyday elegance to glamorous night looks—all in one versatile collection.",
+    "price": 1599,
+    "discountPercent": 0,
+    "category": "68e91ac5f5c8609b337c450b",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760867363/ecommerce/products/v353oabc4b1ouqlclgik.jpg",
+        "alt": "Elixer 36 colour eyeshadow palette",
+        "publicId": "ecommerce/products/v353oabc4b1ouqlclgik",
+        "_id": "68f4b424b24712d97db42c47"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760867363/ecommerce/products/tquhbdrkm3a3oamlwzq3.jpg",
+        "alt": "Elixer 36 colour eyeshadow palette",
+        "publicId": "ecommerce/products/tquhbdrkm3a3oamlwzq3",
+        "_id": "68f4b424b24712d97db42c48"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760867364/ecommerce/products/deqym5waocwvetezr5kn.jpg",
+        "alt": "Elixer 36 colour eyeshadow palette",
+        "publicId": "ecommerce/products/deqym5waocwvetezr5kn",
+        "_id": "68f4b424b24712d97db42c49"
+      }
+    ],
+    "inventory": {
+      "quantity": 199,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-12T10:30:58.958Z",
+    "updatedAt": "2025-10-21T10:23:05.678Z",
+    "__v": 1
+  },
+  {
+    "_id": "68eb8391e45a60a8ce313a96",
+    "name": "Elixer 32 colour eyeshadow palette (Set-A)",
+    "description": "The 32 Colour Eyeshadow Palette brings together a perfect mix of vibrant and neutral tones to create endless eye-catching looks. Each shade is richly pigmented, silky smooth, and easy to blend, giving you full control over intensity and style. With a balance of matte, shimmer, and glitter finishes, this palette is ideal for both everyday wear and glamorous occasions. Long-lasting and versatile, it’s your go-to choice for effortless beauty and creativity.\r\n\r\n",
+    "price": 1800,
+    "discountPercent": 0,
+    "category": "68e91ac5f5c8609b337c450b",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760865957/ecommerce/products/nk2unye6zfi6llicng4v.jpg",
+        "alt": "Elixer 32 colour eyeshadow palette",
+        "publicId": "ecommerce/products/nk2unye6zfi6llicng4v",
+        "_id": "68f4aea7b24712d97db42b4e"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760865957/ecommerce/products/z4u6tmnjudni4xp8aair.jpg",
+        "alt": "Elixer 32 colour eyeshadow palette",
+        "publicId": "ecommerce/products/z4u6tmnjudni4xp8aair",
+        "_id": "68f4aea7b24712d97db42b4f"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760865958/ecommerce/products/dfgjzlothtjhdapj5ygy.jpg",
+        "alt": "Elixer 32 colour eyeshadow palette",
+        "publicId": "ecommerce/products/dfgjzlothtjhdapj5ygy",
+        "_id": "68f4aea7b24712d97db42b50"
+      }
+    ],
+    "inventory": {
+      "quantity": 500,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-12T10:31:45.999Z",
+    "updatedAt": "2025-10-20T15:40:33.355Z",
+    "__v": 1
+  },
+  {
+    "_id": "68f4af9bdb2b01210809e4d6",
+    "name": "Elixer 32 colour eyeshade palette (Set-B)",
+    "description": "The 32 Colour Eyeshadow Palette brings together a perfect mix of vibrant and neutral tones to create endless eye-catching looks. Each shade is richly pigmented, silky smooth, and easy to blend, giving you full control over intensity and style. With a balance of matte, shimmer, and glitter finishes, this palette is ideal for both everyday wear and glamorous occasions. Long-lasting and versatile, it’s your go-to choice for effortless beauty and creativity.",
+    "price": 1800,
+    "discountPercent": 0,
+    "category": "68e91ac5f5c8609b337c450b",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760866202/ecommerce/products/ktd9o48pnkha9lxlvjpj.jpg",
+        "alt": "Elixer 32 colour eyeshade palette (Set-B)",
+        "publicId": "ecommerce/products/ktd9o48pnkha9lxlvjpj",
+        "_id": "68f4af9bdb2b01210809e4d7"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760866202/ecommerce/products/o7ah6bleyluywex9kuuj.jpg",
+        "alt": "Elixer 32 colour eyeshade palette (Set-B)",
+        "publicId": "ecommerce/products/o7ah6bleyluywex9kuuj",
+        "_id": "68f4af9bdb2b01210809e4d8"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760866202/ecommerce/products/kvdvzhdkwwd2ic8vtdkr.jpg",
+        "alt": "Elixer 32 colour eyeshade palette (Set-B)",
+        "publicId": "ecommerce/products/kvdvzhdkwwd2ic8vtdkr",
+        "_id": "68f4af9bdb2b01210809e4d9"
+      }
+    ],
+    "inventory": {
+      "quantity": 200,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-19T09:30:03.370Z",
+    "updatedAt": "2025-10-20T15:40:17.408Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f4b2deb24712d97db42bf7",
+    "name": "Elixer Face powder",
+    "description": "Set your makeup flawlessly with the Elixer Beauty Face Powder — your secret to a smooth, airbrushed finish that lasts all day. Its ultra-fine, lightweight texture effortlessly blurs imperfections, minimizes pores, and controls shine without feeling heavy.\r\n💫 Key Benefits:\r\nGives a silky matte finish that feels soft and natural\r\nOil-control formula keeps your skin fresh and shine-free\r\nBlends seamlessly with all skin tones for a flawless look\r\nPerfect for setting makeup or touch-ups on the go",
+    "price": 1200,
+    "discountPercent": 0,
+    "category": "68e9188758362dfb3d66a653",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760867037/ecommerce/products/kcchu2nt6ystcbbenknu.jpg",
+        "alt": "Elixer Face powder ",
+        "publicId": "ecommerce/products/kcchu2nt6ystcbbenknu",
+        "_id": "68f4b2deb24712d97db42bf8"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760867037/ecommerce/products/suuejnzytpvnaiebjkms.png",
+        "alt": "Elixer Face powder ",
+        "publicId": "ecommerce/products/suuejnzytpvnaiebjkms",
+        "_id": "68f4b2deb24712d97db42bf9"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760974747/ecommerce/products/z7cdawcmexjfrx4wlfdl.jpg",
+        "alt": "Elixer Face powder",
+        "publicId": "ecommerce/products/z7cdawcmexjfrx4wlfdl",
+        "_id": "68f657a0d41b6843b65c5bcf"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761040951/ecommerce/products/x1gdk3zninpcwwoei7ud.png",
+        "alt": "Elixer Face powder",
+        "publicId": "ecommerce/products/x1gdk3zninpcwwoei7ud",
+        "_id": "68f75a383ad84d06987d6f69"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761041398/ecommerce/products/syjxc5lideb6odm20n1u.png",
+        "alt": "Elixer Face powder",
+        "publicId": "ecommerce/products/syjxc5lideb6odm20n1u",
+        "_id": "68f75bf9b2eaf71d489a6987"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761041400/ecommerce/products/rw6ndlkd5cweiuywdevd.png",
+        "alt": "Elixer Face powder",
+        "publicId": "ecommerce/products/rw6ndlkd5cweiuywdevd",
+        "_id": "68f75bf9b2eaf71d489a6988"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761041400/ecommerce/products/lhdnikifctdrjt9byhpt.png",
+        "alt": "Elixer Face powder",
+        "publicId": "ecommerce/products/lhdnikifctdrjt9byhpt",
+        "_id": "68f75bf9b2eaf71d489a6989"
+      }
+    ],
+    "inventory": {
+      "quantity": 299,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-19T09:43:58.380Z",
+    "updatedAt": "2025-10-21T10:10:01.323Z",
+    "__v": 3
+  },
+  {
+    "_id": "68f4b3b4b24712d97db42c2e",
+    "name": "Elixer beauty blender puff",
+    "description": "Smooth and blendable",
+    "price": 199,
+    "discountPercent": 0,
+    "category": "68eb8328e45a60a8ce313a84",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760867251/ecommerce/products/ebvuutgvusetp1jh8kkb.jpg",
+        "alt": "Elixer beauty blender puff ",
+        "publicId": "ecommerce/products/ebvuutgvusetp1jh8kkb",
+        "_id": "68f4b3b4b24712d97db42c2f"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760867251/ecommerce/products/lysidmnelqdsp1riswz5.jpg",
+        "alt": "Elixer beauty blender puff ",
+        "publicId": "ecommerce/products/lysidmnelqdsp1riswz5",
+        "_id": "68f4b3b4b24712d97db42c30"
+      }
+    ],
+    "inventory": {
+      "quantity": 500,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-19T09:47:32.387Z",
+    "updatedAt": "2025-10-19T10:04:14.749Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f4b484b24712d97db42c84",
+    "name": "Elixer 36 colour eyeshadow palette (Set-B)",
+    "description": "The 36 Colour Eyeshadow Palette is your ultimate canvas for creativity and expression. Featuring a stunning range of shades—from soft neutrals to bold, vibrant tones—it allows endless looks for every mood and occasion. Each pigment is richly formulated for smooth blending, high color payoff, and long-lasting wear. With matte, shimmer, and metallic finishes, this palette lets you effortlessly transition from everyday elegance to glamorous night looks—all in one versatile collection.",
+    "price": 1599,
+    "discountPercent": 0,
+    "category": "68e91ac5f5c8609b337c450b",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760867458/ecommerce/products/ohampzjkjucarfgnbgwe.jpg",
+        "alt": "Elixer 36 colour eyeshadow palette (Set-B)",
+        "publicId": "ecommerce/products/ohampzjkjucarfgnbgwe",
+        "_id": "68f4b484b24712d97db42c85"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760867459/ecommerce/products/hesfswxmsbcizo6tvcsk.jpg",
+        "alt": "Elixer 36 colour eyeshadow palette (Set-B)",
+        "publicId": "ecommerce/products/hesfswxmsbcizo6tvcsk",
+        "_id": "68f4b484b24712d97db42c86"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760867459/ecommerce/products/habzwcxwnqad9dhldwgk.jpg",
+        "alt": "Elixer 36 colour eyeshadow palette (Set-B)",
+        "publicId": "ecommerce/products/habzwcxwnqad9dhldwgk",
+        "_id": "68f4b484b24712d97db42c87"
+      }
+    ],
+    "inventory": {
+      "quantity": 298,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-19T09:51:00.330Z",
+    "updatedAt": "2025-10-21T10:23:05.300Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f5dcb88c397177e03f56df",
+    "name": "Elixer Compact Facepowder",
+    "description": "Stay flawless anytime, anywhere with the Elixer Compact Face Powder — your go-to essential for a smooth, radiant complexion. This finely milled formula delivers buildable coverage while keeping your skin shine-free and fresh all day long.\r\n💫 Key Features:\r\nLightweight & breathable texture that feels silky on the skin\r\nControls excess oil for a smooth, matte finish\r\nBlends effortlessly to even out skin tone\r\nComes in a sleek, travel-friendly compact with a mirror and puff for on-the-go touch-ups",
+    "price": 1000,
+    "discountPercent": 0,
+    "category": "68e9188758362dfb3d66a653",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760943286/ecommerce/products/t5qbmn3xxhcth6kec6ii.png",
+        "alt": "Elixer Compact Facepowder ",
+        "publicId": "ecommerce/products/t5qbmn3xxhcth6kec6ii",
+        "_id": "68f5dcb88c397177e03f56e0"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760943287/ecommerce/products/pxiuvj4kd4q0xyyj5ek4.jpg",
+        "alt": "Elixer Compact Facepowder ",
+        "publicId": "ecommerce/products/pxiuvj4kd4q0xyyj5ek4",
+        "_id": "68f5dcb88c397177e03f56e1"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760943287/ecommerce/products/yxypux8axoevw9vqryoa.jpg",
+        "alt": "Elixer Compact Facepowder ",
+        "publicId": "ecommerce/products/yxypux8axoevw9vqryoa",
+        "_id": "68f5dcb88c397177e03f56e2"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761041898/ecommerce/products/u04hh4tdlekdu4nfhfi5.jpg",
+        "alt": "Elixer Compact Facepowder",
+        "publicId": "ecommerce/products/u04hh4tdlekdu4nfhfi5",
+        "_id": "68f75debb2eaf71d489a6b35"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761041898/ecommerce/products/l2rf99gnzauibff0bv07.jpg",
+        "alt": "Elixer Compact Facepowder",
+        "publicId": "ecommerce/products/l2rf99gnzauibff0bv07",
+        "_id": "68f75debb2eaf71d489a6b36"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761041899/ecommerce/products/gs9xipv1tej4mlgn8kkk.jpg",
+        "alt": "Elixer Compact Facepowder",
+        "publicId": "ecommerce/products/gs9xipv1tej4mlgn8kkk",
+        "_id": "68f75debb2eaf71d489a6b37"
+      }
+    ],
+    "inventory": {
+      "quantity": 500,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-20T06:54:48.113Z",
+    "updatedAt": "2025-10-21T10:18:19.858Z",
+    "__v": 1
+  },
+  {
+    "_id": "68f65651fa652cc1d75f0ddb",
+    "name": "Elixer Eyeliner",
+    "description": "Elixer Beauty Eyeliner is likely a precision line-defining cosmetic designed to accentuate the eyes with sharp, clean strokes. Its formula is probably richly pigmented for bold color payoff—deep blacks or rich hues—that show well with one or two swipes. Expect a smooth, glide-on texture that minimizes tugging and irritation, possibly with a quick-dry finish to prevent smudging. The tip might be fine or felt/brush-style to allow for both thin, subtle lining and more dramatic winged looks. It may have some water- or sweat-resistance so it lasts through the day, yet still be removable without too much trouble. Overall, it should help provide eye definition, enhance shape, and complete eye makeup looks with precision and staying power.",
+    "price": 450,
+    "discountPercent": 0,
+    "category": "68e9190c58362dfb3d66a65b",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760974408/ecommerce/products/xlajsobaonxqfyjm8zap.png",
+        "alt": "Elixer Eyeliner",
+        "publicId": "ecommerce/products/xlajsobaonxqfyjm8zap",
+        "_id": "68f65651fa652cc1d75f0ddc"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760974414/ecommerce/products/uc16iquddo9vrdiciqbd.jpg",
+        "alt": "Elixer Eyeliner",
+        "publicId": "ecommerce/products/uc16iquddo9vrdiciqbd",
+        "_id": "68f65651fa652cc1d75f0ddd"
+      }
+    ],
+    "inventory": {
+      "quantity": 600,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-20T15:33:37.941Z",
+    "updatedAt": "2025-10-20T15:33:37.941Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f6707e0584f5583fc99d9c",
+    "name": "Elixer Eyebrow powder",
+    "description": "Redefine the art of perfect brows with the Elixer Beauty Eyebrow Powder Kit — your ultimate tool for creating flawless, natural definition. Designed with precision and sophistication, this kit features two richly pigmented powder shades that blend seamlessly to match your natural brow tone. The smooth, mineral-based formula glides effortlessly onto the skin, allowing you to fill, shape, and enhance your brows with buildable coverage.",
+    "price": 430,
+    "discountPercent": 0,
+    "category": "68e9190c58362dfb3d66a65b",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760981117/ecommerce/products/s1slyyzkz3nmksou7igj.jpg",
+        "alt": "Elixer Eyebrow powder ",
+        "publicId": "ecommerce/products/s1slyyzkz3nmksou7igj",
+        "_id": "68f6707e0584f5583fc99d9d"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760981118/ecommerce/products/rddwo0mffg0tmwv870ra.jpg",
+        "alt": "Elixer Eyebrow powder ",
+        "publicId": "ecommerce/products/rddwo0mffg0tmwv870ra",
+        "_id": "68f6707e0584f5583fc99d9e"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039187/ecommerce/products/jztaq73aydequejxnbx5.jpg",
+        "alt": "Elixer Eyebrow powder",
+        "publicId": "ecommerce/products/jztaq73aydequejxnbx5",
+        "_id": "68f75355480d79560bac1657"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039187/ecommerce/products/o0nhjxfbgdz1gdvx5hyk.jpg",
+        "alt": "Elixer Eyebrow powder",
+        "publicId": "ecommerce/products/o0nhjxfbgdz1gdvx5hyk",
+        "_id": "68f75355480d79560bac1658"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039188/ecommerce/products/drokjfbpqyjkerobcrek.jpg",
+        "alt": "Elixer Eyebrow powder",
+        "publicId": "ecommerce/products/drokjfbpqyjkerobcrek",
+        "_id": "68f75355480d79560bac1659"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039189/ecommerce/products/yvbiai1i9bpnzbwiszta.jpg",
+        "alt": "Elixer Eyebrow powder",
+        "publicId": "ecommerce/products/yvbiai1i9bpnzbwiszta",
+        "_id": "68f75355480d79560bac165a"
+      }
+    ],
+    "inventory": {
+      "quantity": 200,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-20T17:25:18.591Z",
+    "updatedAt": "2025-10-21T09:33:09.350Z",
+    "__v": 1
+  },
+  {
+    "_id": "68f6761c38c0a2984d6323fe",
+    "name": "Elixer Nail Polishes",
+    "description": "💅 Elixer Beauty Nail Polishes — where colour meets confidence!\r\nFrom soft nudes to bold brights, EB offers a wide range of stunning shades to match every mood and moment. Each polish glides on smoothly, dries fast, and gives a glossy, salon-perfect finish that lasts. Whether you’re going classy, chic, or creative — there’s a colour for you. ✨\r\n",
+    "price": 250,
+    "discountPercent": 0,
+    "category": "68e91b04f5c8609b337c4511",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982473/ecommerce/products/pxqfsp5gg1pg50be8owt.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/pxqfsp5gg1pg50be8owt",
+        "_id": "68f6761c38c0a2984d6323ff"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982475/ecommerce/products/q9wdbkxdtf34zwmp6846.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/q9wdbkxdtf34zwmp6846",
+        "_id": "68f6761c38c0a2984d632400"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982475/ecommerce/products/ap4tl6nqw6r4jn5z4gnw.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/ap4tl6nqw6r4jn5z4gnw",
+        "_id": "68f6761c38c0a2984d632401"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982476/ecommerce/products/smempo9obg0fqsn3wpcu.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/smempo9obg0fqsn3wpcu",
+        "_id": "68f6761c38c0a2984d632402"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982477/ecommerce/products/okggzbpkp68kpztwch9b.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/okggzbpkp68kpztwch9b",
+        "_id": "68f6761c38c0a2984d632403"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982478/ecommerce/products/cljtt3yweczfkhcjwrzq.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/cljtt3yweczfkhcjwrzq",
+        "_id": "68f6761c38c0a2984d632404"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982479/ecommerce/products/xu9aqiaxbjaoou7w7zqf.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/xu9aqiaxbjaoou7w7zqf",
+        "_id": "68f6761c38c0a2984d632405"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982481/ecommerce/products/ix541tudc1xl5e7ayr70.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/ix541tudc1xl5e7ayr70",
+        "_id": "68f6761c38c0a2984d632406"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982482/ecommerce/products/bkudbd7txnsnwibw0s3l.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/bkudbd7txnsnwibw0s3l",
+        "_id": "68f6761c38c0a2984d632407"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982483/ecommerce/products/ajuluvnsplnmxndvs567.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/ajuluvnsplnmxndvs567",
+        "_id": "68f6761c38c0a2984d632408"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982484/ecommerce/products/pmgzs853m5gmczaurtv0.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/pmgzs853m5gmczaurtv0",
+        "_id": "68f6761c38c0a2984d632409"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982487/ecommerce/products/lzwo6o2fnpdcb9k1fkx1.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/lzwo6o2fnpdcb9k1fkx1",
+        "_id": "68f6761c38c0a2984d63240a"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982488/ecommerce/products/vjulhb3o69fhedidick8.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/vjulhb3o69fhedidick8",
+        "_id": "68f6761c38c0a2984d63240b"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982489/ecommerce/products/arfscx9vhhfrjhxotc75.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/arfscx9vhhfrjhxotc75",
+        "_id": "68f6761c38c0a2984d63240c"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982491/ecommerce/products/hsetcvtaoufzzzhonry9.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/hsetcvtaoufzzzhonry9",
+        "_id": "68f6761c38c0a2984d63240d"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982492/ecommerce/products/bgl3fioaob0ox7kkiphg.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/bgl3fioaob0ox7kkiphg",
+        "_id": "68f6761c38c0a2984d63240e"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982494/ecommerce/products/riumkrqpiwqk4pbqjo5s.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/riumkrqpiwqk4pbqjo5s",
+        "_id": "68f6761c38c0a2984d63240f"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982495/ecommerce/products/zkjgyhti9wvm2mlusqai.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/zkjgyhti9wvm2mlusqai",
+        "_id": "68f6761c38c0a2984d632410"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982497/ecommerce/products/aklkif5hqdadq1cw5ylm.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/aklkif5hqdadq1cw5ylm",
+        "_id": "68f6761c38c0a2984d632411"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982498/ecommerce/products/v7telx4fubrnv7y8i7sb.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/v7telx4fubrnv7y8i7sb",
+        "_id": "68f6761c38c0a2984d632412"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982499/ecommerce/products/sbegkhtvyv1immn7yxd3.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/sbegkhtvyv1immn7yxd3",
+        "_id": "68f6761c38c0a2984d632413"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982501/ecommerce/products/ucppiii09flmo2n6slln.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/ucppiii09flmo2n6slln",
+        "_id": "68f6761c38c0a2984d632414"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982502/ecommerce/products/zqpwivtmj1amccl6a3m2.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/zqpwivtmj1amccl6a3m2",
+        "_id": "68f6761c38c0a2984d632415"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982503/ecommerce/products/gbrkg7dgrzq8tdcn2cnz.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/gbrkg7dgrzq8tdcn2cnz",
+        "_id": "68f6761c38c0a2984d632416"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982505/ecommerce/products/lmcv33pextoi00ktbpjw.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/lmcv33pextoi00ktbpjw",
+        "_id": "68f6761c38c0a2984d632417"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982506/ecommerce/products/l78cegmknk8meqgwuab9.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/l78cegmknk8meqgwuab9",
+        "_id": "68f6761c38c0a2984d632418"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982506/ecommerce/products/goxumqal8ip2k98anozu.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/goxumqal8ip2k98anozu",
+        "_id": "68f6761c38c0a2984d632419"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982507/ecommerce/products/hptwhtzev5kaklhbd4y3.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/hptwhtzev5kaklhbd4y3",
+        "_id": "68f6761c38c0a2984d63241a"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982508/ecommerce/products/gg3pkapqrde4dtuf78uj.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/gg3pkapqrde4dtuf78uj",
+        "_id": "68f6761c38c0a2984d63241b"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982509/ecommerce/products/qzwhdqfahkqcrcgmk780.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/qzwhdqfahkqcrcgmk780",
+        "_id": "68f6761c38c0a2984d63241c"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982510/ecommerce/products/gmwjptwi5gqyhixwnssg.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/gmwjptwi5gqyhixwnssg",
+        "_id": "68f6761c38c0a2984d63241d"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982511/ecommerce/products/su92wleynvscxalljesx.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/su92wleynvscxalljesx",
+        "_id": "68f6761c38c0a2984d63241e"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982512/ecommerce/products/bxco54wvomv3rok9npvo.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/bxco54wvomv3rok9npvo",
+        "_id": "68f6761c38c0a2984d63241f"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982513/ecommerce/products/uwyqdywzoj8fnh6q10oa.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/uwyqdywzoj8fnh6q10oa",
+        "_id": "68f6761c38c0a2984d632420"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982515/ecommerce/products/nxwpfuprtfnw9rdammms.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/nxwpfuprtfnw9rdammms",
+        "_id": "68f6761c38c0a2984d632421"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982516/ecommerce/products/pn2yqnfq0skgaevpciuy.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/pn2yqnfq0skgaevpciuy",
+        "_id": "68f6761c38c0a2984d632422"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982518/ecommerce/products/karbvuf7hvk66alnzxx7.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/karbvuf7hvk66alnzxx7",
+        "_id": "68f6761c38c0a2984d632423"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982519/ecommerce/products/k2iseht4iypvdvmfjuhi.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/k2iseht4iypvdvmfjuhi",
+        "_id": "68f6761c38c0a2984d632424"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982520/ecommerce/products/c4sgiawpgqfpftcboubf.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/c4sgiawpgqfpftcboubf",
+        "_id": "68f6761c38c0a2984d632425"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982522/ecommerce/products/xmsat7wl7k3qe7u6dx4z.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/xmsat7wl7k3qe7u6dx4z",
+        "_id": "68f6761c38c0a2984d632426"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982523/ecommerce/products/n6sgadrhmpuyw7dcbrvd.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/n6sgadrhmpuyw7dcbrvd",
+        "_id": "68f6761c38c0a2984d632427"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982524/ecommerce/products/h01gobdioiupnoqn5wua.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/h01gobdioiupnoqn5wua",
+        "_id": "68f6761c38c0a2984d632428"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982526/ecommerce/products/dwhzxnwzmevkqcgcvdta.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/dwhzxnwzmevkqcgcvdta",
+        "_id": "68f6761c38c0a2984d632429"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982527/ecommerce/products/ehhkzl4p12pcb97iz9ub.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/ehhkzl4p12pcb97iz9ub",
+        "_id": "68f6761c38c0a2984d63242a"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982529/ecommerce/products/ggqbhv0keyzhja0doxpo.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/ggqbhv0keyzhja0doxpo",
+        "_id": "68f6761c38c0a2984d63242b"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982530/ecommerce/products/lhhjfwvbi5880dm0zkxo.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/lhhjfwvbi5880dm0zkxo",
+        "_id": "68f6761c38c0a2984d63242c"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982532/ecommerce/products/xmnlctw6k5ubmxsjx1nt.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/xmnlctw6k5ubmxsjx1nt",
+        "_id": "68f6761c38c0a2984d63242d"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982533/ecommerce/products/iq7cng0n6egz9bkq8fae.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/iq7cng0n6egz9bkq8fae",
+        "_id": "68f6761c38c0a2984d63242e"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982534/ecommerce/products/cmp2q2sqwqxgvpfqcdjo.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/cmp2q2sqwqxgvpfqcdjo",
+        "_id": "68f6761c38c0a2984d63242f"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982535/ecommerce/products/w5lrweiwq0k2qg6efhbg.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/w5lrweiwq0k2qg6efhbg",
+        "_id": "68f6761c38c0a2984d632430"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982536/ecommerce/products/mt1vdkykdunsog7rqukn.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/mt1vdkykdunsog7rqukn",
+        "_id": "68f6761c38c0a2984d632431"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982537/ecommerce/products/w3ffr4ixjmdbwy9ets0v.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/w3ffr4ixjmdbwy9ets0v",
+        "_id": "68f6761c38c0a2984d632432"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982538/ecommerce/products/f5uaeejlmpaab3otzrwz.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/f5uaeejlmpaab3otzrwz",
+        "_id": "68f6761c38c0a2984d632433"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982540/ecommerce/products/s6ctcsd5tfx0mzscvfx2.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/s6ctcsd5tfx0mzscvfx2",
+        "_id": "68f6761c38c0a2984d632434"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982542/ecommerce/products/nsuhbti854nat2at1ojw.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/nsuhbti854nat2at1ojw",
+        "_id": "68f6761c38c0a2984d632435"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982543/ecommerce/products/z7crowqmulboogin3op1.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/z7crowqmulboogin3op1",
+        "_id": "68f6761c38c0a2984d632436"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982547/ecommerce/products/cfz4hqnys112f9slcocq.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/cfz4hqnys112f9slcocq",
+        "_id": "68f6761c38c0a2984d632437"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982548/ecommerce/products/b4l7b4xt2p218xlq41ax.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/b4l7b4xt2p218xlq41ax",
+        "_id": "68f6761c38c0a2984d632438"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982549/ecommerce/products/vcr0nwegbqdyuzpnsflj.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/vcr0nwegbqdyuzpnsflj",
+        "_id": "68f6761c38c0a2984d632439"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982550/ecommerce/products/atfxpska45qwsktjbsmv.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/atfxpska45qwsktjbsmv",
+        "_id": "68f6761c38c0a2984d63243a"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982551/ecommerce/products/dcynh1ah0trgp7yxstvq.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/dcynh1ah0trgp7yxstvq",
+        "_id": "68f6761c38c0a2984d63243b"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982553/ecommerce/products/cucssqftd9dgsg63oz94.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/cucssqftd9dgsg63oz94",
+        "_id": "68f6761c38c0a2984d63243c"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982554/ecommerce/products/gutqggkyrmnrytw7fkxg.jpg",
+        "alt": "Nail Polish",
+        "publicId": "ecommerce/products/gutqggkyrmnrytw7fkxg",
+        "_id": "68f6761c38c0a2984d63243d"
+      }
+    ],
+    "inventory": {
+      "quantity": 1000,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-20T17:49:16.947Z",
+    "updatedAt": "2025-10-20T18:25:38.806Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f6770138c0a2984d6324c9",
+    "name": "Elixer lip n eye pencils",
+    "description": "Meet EB Lip & Eye Pencils — the multitasking marvel every beauty-lover needs. Crafted with a creamy, richly-pigmented formula, these pencils glide on effortlessly and let you define your lips and your eyes with one stylish swipe.\r\n\r\n🎯 Why you’ll love them:\r\n\r\nDual-use design: line & fill your lips, or precision-trace your eyes.\r\n\r\nIntense colour payoff for that bold, confident look.\r\n\r\nSmooth texture that won’t tug — easy to apply and blend.\r\n\r\nA smart pick for travel-ready makeup kits or quick touch-ups on the go.",
+    "price": 199,
+    "discountPercent": 0,
+    "category": "68eb8115e45a60a8ce313a03",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982759/ecommerce/products/fskpo6i3dqg2gha6zwnm.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/fskpo6i3dqg2gha6zwnm",
+        "_id": "68f6770138c0a2984d6324ca"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982761/ecommerce/products/d86gejj6fm1okopdgggf.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/d86gejj6fm1okopdgggf",
+        "_id": "68f6770138c0a2984d6324cb"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982763/ecommerce/products/s0tk5qar2bpywx1g1djc.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/s0tk5qar2bpywx1g1djc",
+        "_id": "68f6770138c0a2984d6324cc"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982764/ecommerce/products/hqggdhpkvsfb27seth88.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/hqggdhpkvsfb27seth88",
+        "_id": "68f6770138c0a2984d6324cd"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982766/ecommerce/products/g2szscriplat7bx6hp1z.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/g2szscriplat7bx6hp1z",
+        "_id": "68f6770138c0a2984d6324ce"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982767/ecommerce/products/rjpdpx0zs9zq9vktngob.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/rjpdpx0zs9zq9vktngob",
+        "_id": "68f6770138c0a2984d6324cf"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982769/ecommerce/products/cffhdfbpcp5fsccvemqg.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/cffhdfbpcp5fsccvemqg",
+        "_id": "68f6770138c0a2984d6324d0"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982770/ecommerce/products/mvxjuxnizbaqdvn8mwda.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/mvxjuxnizbaqdvn8mwda",
+        "_id": "68f6770138c0a2984d6324d1"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982771/ecommerce/products/ojceeyodysebnxulc5dd.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/ojceeyodysebnxulc5dd",
+        "_id": "68f6770138c0a2984d6324d2"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982772/ecommerce/products/ywptptrmr65yjzv02njo.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/ywptptrmr65yjzv02njo",
+        "_id": "68f6770138c0a2984d6324d3"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982773/ecommerce/products/nezcdfugzfcdjthehsit.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/nezcdfugzfcdjthehsit",
+        "_id": "68f6770138c0a2984d6324d4"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982775/ecommerce/products/ufgcpuqg1zv0jlgpbi0v.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/ufgcpuqg1zv0jlgpbi0v",
+        "_id": "68f6770138c0a2984d6324d5"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982775/ecommerce/products/xvm5luoe2ufbh4iccush.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/xvm5luoe2ufbh4iccush",
+        "_id": "68f6770138c0a2984d6324d6"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982776/ecommerce/products/pxcpflbmoncopasob7cr.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/pxcpflbmoncopasob7cr",
+        "_id": "68f6770138c0a2984d6324d7"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982777/ecommerce/products/o7ofhoeby9lvbnf1q6fk.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/o7ofhoeby9lvbnf1q6fk",
+        "_id": "68f6770138c0a2984d6324d8"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982778/ecommerce/products/olcjtkjm4kgpk3pfmvx1.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/olcjtkjm4kgpk3pfmvx1",
+        "_id": "68f6770138c0a2984d6324d9"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982779/ecommerce/products/ypyncg634nk5goyxrusw.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/ypyncg634nk5goyxrusw",
+        "_id": "68f6770138c0a2984d6324da"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982780/ecommerce/products/qqglzco7uaoc3r3mcico.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/qqglzco7uaoc3r3mcico",
+        "_id": "68f6770138c0a2984d6324db"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982781/ecommerce/products/kynwdcqszyswblffcz2w.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/kynwdcqszyswblffcz2w",
+        "_id": "68f6770138c0a2984d6324dc"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982781/ecommerce/products/vsbmxicwtnbklk2ik1ii.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/vsbmxicwtnbklk2ik1ii",
+        "_id": "68f6770138c0a2984d6324dd"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982782/ecommerce/products/p06jg5ivwixl8tj20bc9.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/p06jg5ivwixl8tj20bc9",
+        "_id": "68f6770138c0a2984d6324de"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1760982783/ecommerce/products/kjde3z5qmzk2mhdqao83.jpg",
+        "alt": "Lip Pencils",
+        "publicId": "ecommerce/products/kjde3z5qmzk2mhdqao83",
+        "_id": "68f6770138c0a2984d6324df"
+      }
+    ],
+    "inventory": {
+      "quantity": 600,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-20T17:53:05.500Z",
+    "updatedAt": "2025-10-20T18:27:31.990Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f753bf480d79560bac16d8",
+    "name": "Elixer Fake French Nails",
+    "description": "Transform your nails in seconds with Elixer Beauty’s premium fake nails — designed for effortless elegance and long-lasting wear. Each set features salon-quality designs, from chic minimal looks to bold glam styles, perfect for every mood and occasion.\r\n\r\n✨ Lightweight & Comfortable: Feels natural, fits perfectly.\r\n✨ Easy to Apply: Quick glue-on or press-on options — no mess, no fuss.\r\n✨ Durable Finish: Chip-resistant and stays flawless for days.\r\n✨ Trendy Designs: From classy nudes to glitter glam and everything in between.\r\n\r\nWhether you’re getting ready for a party, a shoot, or just want everyday glam, EB Fake Nails give you that instant manicure magic — without stepping into a salon! 💖",
+    "price": 400,
+    "discountPercent": 0,
+    "category": "68e91b04f5c8609b337c4511",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039292/ecommerce/products/mxledlbjlxemejzisgda.jpg",
+        "alt": "Elixer Fake French Nails",
+        "publicId": "ecommerce/products/mxledlbjlxemejzisgda",
+        "_id": "68f753bf480d79560bac16d9"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039293/ecommerce/products/xqzfhvl2jkmpif27fcru.jpg",
+        "alt": "Elixer Fake French Nails",
+        "publicId": "ecommerce/products/xqzfhvl2jkmpif27fcru",
+        "_id": "68f753bf480d79560bac16da"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039294/ecommerce/products/gcwenuqpuv2nadmsdl3g.jpg",
+        "alt": "Elixer Fake French Nails",
+        "publicId": "ecommerce/products/gcwenuqpuv2nadmsdl3g",
+        "_id": "68f753bf480d79560bac16db"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039294/ecommerce/products/rt9rdivnpquqcuys1cqh.jpg",
+        "alt": "Elixer Fake French Nails",
+        "publicId": "ecommerce/products/rt9rdivnpquqcuys1cqh",
+        "_id": "68f753bf480d79560bac16dc"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039295/ecommerce/products/emwsl7xxkecsxuysunyz.jpg",
+        "alt": "Elixer Fake French Nails",
+        "publicId": "ecommerce/products/emwsl7xxkecsxuysunyz",
+        "_id": "68f753bf480d79560bac16dd"
+      }
+    ],
+    "inventory": {
+      "quantity": 300,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-21T09:34:55.710Z",
+    "updatedAt": "2025-10-21T09:34:55.710Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f7541cc252f74440d2559b",
+    "name": "Elixer Fake Glitter Nails",
+    "description": "Transform your nails in seconds with Elixer Beauty’s premium fake nails — designed for effortless elegance and long-lasting wear. Each set features salon-quality designs, from chic minimal looks to bold glam styles, perfect for every mood and occasion.\r\n\r\n✨ Lightweight & Comfortable: Feels natural, fits perfectly.\r\n✨ Easy to Apply: Quick glue-on or press-on options — no mess, no fuss.\r\n✨ Durable Finish: Chip-resistant and stays flawless for days.\r\n✨ Trendy Designs: From classy nudes to glitter glam and everything in between.\r\n\r\nWhether you’re getting ready for a party, a shoot, or just want everyday glam, EB Fake Nails give you that instant manicure magic — without stepping into a salon! 💖",
+    "price": 400,
+    "discountPercent": 0,
+    "category": "68e91b04f5c8609b337c4511",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039386/ecommerce/products/gwi7nmdolh94dbixb6ug.jpg",
+        "alt": "Elixer Fake Glitter Nails",
+        "publicId": "ecommerce/products/gwi7nmdolh94dbixb6ug",
+        "_id": "68f7541cc252f74440d2559c"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039386/ecommerce/products/lkkme6ddmekliknfwlpc.jpg",
+        "alt": "Elixer Fake Glitter Nails",
+        "publicId": "ecommerce/products/lkkme6ddmekliknfwlpc",
+        "_id": "68f7541cc252f74440d2559d"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039387/ecommerce/products/ci8nep9fq7v2hjje94ux.jpg",
+        "alt": "Elixer Fake Glitter Nails",
+        "publicId": "ecommerce/products/ci8nep9fq7v2hjje94ux",
+        "_id": "68f7541cc252f74440d2559e"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039387/ecommerce/products/wkpbg2w3gmcfywbgfk8j.jpg",
+        "alt": "Elixer Fake Glitter Nails",
+        "publicId": "ecommerce/products/wkpbg2w3gmcfywbgfk8j",
+        "_id": "68f7541cc252f74440d2559f"
+      }
+    ],
+    "inventory": {
+      "quantity": 500,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-21T09:36:28.359Z",
+    "updatedAt": "2025-10-21T09:36:28.359Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f7546ac252f74440d25618",
+    "name": "Elixer Fake Stone Nails",
+    "description": "Transform your nails in seconds with Elixer Beauty’s premium fake nails — designed for effortless elegance and long-lasting wear. Each set features salon-quality designs, from chic minimal looks to bold glam styles, perfect for every mood and occasion.\r\n\r\n✨ Lightweight & Comfortable: Feels natural, fits perfectly.\r\n✨ Easy to Apply: Quick glue-on or press-on options — no mess, no fuss.\r\n✨ Durable Finish: Chip-resistant and stays flawless for days.\r\n✨ Trendy Designs: From classy nudes to glitter glam and everything in between.\r\n\r\nWhether you’re getting ready for a party, a shoot, or just want everyday glam, EB Fake Nails give you that instant manicure magic — without stepping into a salon! 💖",
+    "price": 400,
+    "discountPercent": 0,
+    "category": "68e91b04f5c8609b337c4511",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039465/ecommerce/products/k3g29q4wewhbgfk9kkqd.jpg",
+        "alt": "Elixer Fake Stone Nails",
+        "publicId": "ecommerce/products/k3g29q4wewhbgfk9kkqd",
+        "_id": "68f7546ac252f74440d25619"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039465/ecommerce/products/hmhk7yjunxs78n682lnq.jpg",
+        "alt": "Elixer Fake Stone Nails",
+        "publicId": "ecommerce/products/hmhk7yjunxs78n682lnq",
+        "_id": "68f7546ac252f74440d2561a"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039466/ecommerce/products/msxu2jijevztkkpbw4ez.jpg",
+        "alt": "Elixer Fake Stone Nails",
+        "publicId": "ecommerce/products/msxu2jijevztkkpbw4ez",
+        "_id": "68f7546ac252f74440d2561b"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039466/ecommerce/products/hubwtyafz578hjnme9bd.jpg",
+        "alt": "Elixer Fake Stone Nails",
+        "publicId": "ecommerce/products/hubwtyafz578hjnme9bd",
+        "_id": "68f7546ac252f74440d2561c"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039544/ecommerce/products/hkvjygppkty8te3a4cyf.jpg",
+        "alt": "Elixer Fake Stone Nails",
+        "publicId": "ecommerce/products/hkvjygppkty8te3a4cyf",
+        "_id": "68f754b8c252f74440d256a1"
+      }
+    ],
+    "inventory": {
+      "quantity": 200,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-21T09:37:46.990Z",
+    "updatedAt": "2025-10-21T09:39:04.647Z",
+    "__v": 1
+  },
+  {
+    "_id": "68f75512480d79560bac1757",
+    "name": "Elixer fake Nails",
+    "description": "Transform your nails in seconds with Elixer Beauty’s premium fake nails — designed for effortless elegance and long-lasting wear. Each set features salon-quality designs, from chic minimal looks to bold glam styles, perfect for every mood and occasion.\r\n\r\n✨ Lightweight & Comfortable: Feels natural, fits perfectly.\r\n✨ Easy to Apply: Quick glue-on or press-on options — no mess, no fuss.\r\n✨ Durable Finish: Chip-resistant and stays flawless for days.\r\n✨ Trendy Designs: From classy nudes to glitter glam and everything in between.\r\n\r\nWhether you’re getting ready for a party, a shoot, or just want everyday glam, EB Fake Nails give you that instant manicure magic — without stepping into a salon! 💖",
+    "price": 400,
+    "discountPercent": 0,
+    "category": "68e91b04f5c8609b337c4511",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039632/ecommerce/products/kukg3izdcma2drhdiuy8.jpg",
+        "alt": "Elixer fake Nails",
+        "publicId": "ecommerce/products/kukg3izdcma2drhdiuy8",
+        "_id": "68f75512480d79560bac1758"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039632/ecommerce/products/jjaaaqgzoknaku6xrro7.jpg",
+        "alt": "Elixer fake Nails",
+        "publicId": "ecommerce/products/jjaaaqgzoknaku6xrro7",
+        "_id": "68f75512480d79560bac1759"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039632/ecommerce/products/brafob2smveuif4i3c6t.jpg",
+        "alt": "Elixer fake Nails",
+        "publicId": "ecommerce/products/brafob2smveuif4i3c6t",
+        "_id": "68f75512480d79560bac175a"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039633/ecommerce/products/plx1ra4vfszfes8uwipb.jpg",
+        "alt": "Elixer fake Nails",
+        "publicId": "ecommerce/products/plx1ra4vfszfes8uwipb",
+        "_id": "68f75512480d79560bac175b"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039633/ecommerce/products/izlheq89p2clqbwwv8mm.jpg",
+        "alt": "Elixer fake Nails",
+        "publicId": "ecommerce/products/izlheq89p2clqbwwv8mm",
+        "_id": "68f75512480d79560bac175c"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761039633/ecommerce/products/iifhitfnfoxk38juvnjh.jpg",
+        "alt": "Elixer fake Nails",
+        "publicId": "ecommerce/products/iifhitfnfoxk38juvnjh",
+        "_id": "68f75512480d79560bac175d"
+      }
+    ],
+    "inventory": {
+      "quantity": 500,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-21T09:40:34.333Z",
+    "updatedAt": "2025-10-21T09:40:34.333Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f75f6ab2eaf71d489a6f95",
+    "name": "Elixer 24 hrs Mascara",
+    "description": "EB Mascara (such as the Pro Power Curl Waterproof variant) is a cosmetic eye product that aims to volumize, lengthen, and curl the lashes. It has a waterproof formula which helps it resist smudging or running in humid conditions or when exposed to moisture. The brush is designed to lift and separate lashes, giving a more dramatic curl and a fuller appearance. Because of its “power curl” feature, it holds curl well and gives visible lift. It’s a good pick if you want lashes that look longer and more curled without frequent touch-ups or smudging.",
+    "price": 900,
+    "discountPercent": 0,
+    "category": "68e9190c58362dfb3d66a65b",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761042281/ecommerce/products/sk8e8iszqgke7gruh8ud.jpg",
+        "alt": "Elixer 24 hrs Mascara",
+        "publicId": "ecommerce/products/sk8e8iszqgke7gruh8ud",
+        "_id": "68f75f6ab2eaf71d489a6f96"
+      },
+      {
+        "url": "https://res.cloudinary.com/dypq9wz5o/image/upload/v1761042281/ecommerce/products/atdjey48hooaho6u7f5u.jpg",
+        "alt": "Elixer 24 hrs Mascara",
+        "publicId": "ecommerce/products/atdjey48hooaho6u7f5u",
+        "_id": "68f75f6ab2eaf71d489a6f97"
+      }
+    ],
+    "inventory": {
+      "quantity": 999,
+      "inStock": true
+    },
+    "status": "active",
+    "createdAt": "2025-10-21T10:24:42.062Z",
+    "updatedAt": "2025-10-21T15:14:27.845Z",
+    "__v": 0
+  }
+]
