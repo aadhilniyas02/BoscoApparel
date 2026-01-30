@@ -59,7 +59,7 @@ export default function CheckoutPage() {
     address: "",
     city: "",
     zipCode: "",
-    country: "Pakistan",
+    country: "Sri Lanka",
   });
 
   const subtotal = items.reduce((acc, item) => acc + item.price * item.qty, 0);
@@ -338,16 +338,16 @@ export default function CheckoutPage() {
                     {paymentType === "bank" && (
                       <div className="bg-white/5 border border-white/10 rounded-lg p-4 text-sm text-gray-300 break-words w-full max-w-full overflow-hidden">
                         <p className="text-base font-semibold text-white">
-                          UBL Bank
+                          BOC Bank
                         </p>
                         <p>
-                          Account Title: <strong>TEST</strong>
+                          Account Title: <strong>Bosco Apparel</strong>
                         </p>
                         <p className="break-all">
-                          Account Number: <strong>123456789</strong>
+                          Account Number: <strong>90248832</strong>
                         </p>
                         <p className="break-all">
-                          IBAN: <strong>5454545454544545332272236</strong>
+                          Branch: <strong>Ukuwela</strong>
                         </p>
 
                         <hr className="my-3 border-white/10" />
@@ -356,12 +356,12 @@ export default function CheckoutPage() {
                           Please send a screenshot of the payment details with
                           your order number to{" "}
                           <a
-                            href="https://wa.me/923116479997"
+                            href="https://wa.me/94723725670"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-white font-medium underline hover:text-gray-300 break-all"
                           >
-                            WhatsApp: 0344-12345678
+                            WhatsApp: +94 72 372 5670
                           </a>
                           .
                         </p>
