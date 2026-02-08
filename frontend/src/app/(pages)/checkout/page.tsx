@@ -281,7 +281,7 @@ export default function CheckoutPage() {
                       id="country"
                       value={formData.country}
                       onChange={handleInputChange}
-                      placeholder="Pakistan"
+                      placeholder="Sri Lanka"
                       className="h-12 rounded-xl bg-white/5 border-white/10 text-white placeholder:text-gray-500 focus:border-white focus:ring-2 focus:ring-white/20 transition-all"
                     />
                   </div>

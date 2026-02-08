@@ -50,8 +50,8 @@ const Footer = () => {
             <div className="flex items-center justify-center gap-3">
               <FaTruck className="text-2xl text-white" />
               <div className="text-left">
-                <p className="font-semibold text-sm text-gray-200">Free Shipping</p>
-                <p className="text-xs text-gray-400">Orders over Rs.1500</p>
+                <p className="font-semibold text-sm text-gray-200"> Islandwide Delivery </p>
+                <p className="text-xs text-gray-400"> Courier / Transport available </p>
               </div>
             </div>
             <div className="flex items-center justify-center gap-3">
@@ -64,15 +64,15 @@ const Footer = () => {
             <div className="flex items-center justify-center gap-3">
               <FaHeadset className="text-2xl text-white" />
               <div className="text-left">
-                <p className="font-semibold text-sm text-gray-200">24/7 Support</p>
-                <p className="text-xs text-gray-400">Expert Help</p>
+                <p className="font-semibold text-sm text-gray-200">Production Support </p>
+                <p className="text-xs text-gray-400">•Printing • Embroidery • Labeling</p>
               </div>
             </div>
             <div className="flex items-center justify-center gap-3">
               <FaRecycle className="text-2xl text-white" />
               <div className="text-left">
-                <p className="font-semibold text-sm text-gray-200">Easy Returns</p>
-                <p className="text-xs text-gray-400">30 Days Policy</p>
+                <p className="font-semibold text-sm text-gray-200"> Bulk Orders</p>
+                <p className="text-xs text-gray-400"> Wholesale Deal Only</p>
               </div>
             </div>
           </div>
@@ -99,7 +99,7 @@ const Footer = () => {
             </div>
             <div className="space-y-3">
               <div className="flex items-center gap-3 p-3 bg-white/5 rounded-lg border border-white/10">
-                <FaAward className="text-white shrink-0" />
+                <FaAward className="text-white shrink-0" /> 
                 <span className="text-sm text-gray-300">
                   Premium Quality Materials
                 </span>
@@ -151,9 +151,9 @@ const Footer = () => {
             <div className="space-y-3">
               {[
                 "Men",
-                "Women",
+         
                 "Kids",
-                "Accessories",
+     
                 "New Arrivals",
               ].map((cat) => (
                 <Link

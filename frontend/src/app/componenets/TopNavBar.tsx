@@ -13,7 +13,7 @@ const TopNavBar = () => {
             href="mailto:bosco.pk@gmail.com"
             className="text-xs sm:text-sm hover:underline"
           >
-            bosco@gmail.com
+            boscoapparel@gmail.com
           </a>
         </div>
 
@@ -23,7 +23,7 @@ const TopNavBar = () => {
             href="tel:03441262077"
             className="text-xs sm:text-sm hover:underline"
           >
-            03441245677
+            +94 72 372 5670
           </a>
         </div>
       </div>

@@ -66,18 +66,18 @@ export default function Hero() {
             {/* Stats */}
             <div className="grid grid-cols-3 gap-4 pt-8 border-t border-gray-200">
               <div className="text-center">
-                <div className="text-2xl font-bold text-white">50+</div>
-                <div className="text-sm text-gray-400">Natural Products</div>
+                <div className="text-2xl font-bold text-white">10+</div>
+                <div className="text-sm text-gray-400">Years Experienced</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold text-white">98%</div>
+                <div className="text-2xl font-bold text-white">95%</div>
                 <div className="text-sm text-gray-400">
                   Customer Satisfaction
                 </div>
               </div>
               <div className="text-center">
                 <div className="text-2xl font-bold text-white">100%</div>
-                <div className="text-sm text-gray-400">Eco-Friendly</div>
+                <div className="text-sm text-gray-400">Trusted Service</div>
               </div>
             </div>
           </div>
