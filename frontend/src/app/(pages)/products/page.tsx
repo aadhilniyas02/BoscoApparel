@@ -13,7 +13,7 @@ import { Search, ShoppingCart, Star, Filter, Loader2 } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { useGetCategoriesQuery } from "@/app/redux/features/category/categoryApi";
 import { Product, ProductsResponse } from "@/app/redux/features/products/types";
-import defaultimg from "../../../../public/HeroImages/defaultimg.png";
+import defaultimg from "../../../../public/HeroImages/defaultimg.jpg";
 import {
   useDeleteProductMutation,
   useGetProductsQuery,

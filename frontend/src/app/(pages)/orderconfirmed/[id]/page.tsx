@@ -134,7 +134,7 @@ export default function OrderConfirmationPage() {
                 className="flex gap-4 p-4 bg-white/5 rounded-xl hover:bg-white/10 transition-colors border border-white/5"
               >
                 <img
-                  src={item.productId?.images?.[0]?.url || "/HeroImages/defaultimg.png"}
+                  src={item.productId?.images?.[0]?.url || "/HeroImages/defaultimg.jpg"}
                   alt={item.productId?.name || "Product"}
                   className="w-20 h-20 object-cover rounded-lg shadow-sm"
                 />

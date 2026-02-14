@@ -54,7 +54,7 @@ export default function ShoppingCartDrawer({
                 {/* Product Image */}
                 <div className="flex-shrink-0 mx-auto sm:mx-0">
                   <img
-                    src={item.image || defaultimg.src}
+                    src={item.image || defaultimg}
                     alt={item.name}
                     width={100}
                     height={100}

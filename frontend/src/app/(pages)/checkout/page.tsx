@@ -14,7 +14,7 @@ import {
   Mail,
 } from "lucide-react";
 import UserLayout from "@/app/componenets/UserLayout";
-import defaultimg from "../../../../public/HeroImages/defaultimg.png";
+import defaultimg from "../../../../public/HeroImages/defaultimg.jpg";
 import {
   selectCartItems,
   clearCart,
