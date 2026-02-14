@@ -54,18 +54,18 @@ const ContactUs: React.FC = () => {
   const contactInfo: ContactInfo[] = [
     {
       icon: MapPin,
-      title: 'Visit Our Store',
-      details: '123 Beauty Street, Cosmetic City, CC 10101'
+      title: 'Visit Our Garment',
+      details: '328D/1 Elkaduwa Road, Ukuwela, Matale'
     },
     {
       icon: Phone,
       title: 'Call Us',
-      details: '+1 (555) 123-4567'
+      details: '072 372 5670'
     },
     {
       icon: Mail,
       title: 'Email Us',
-      details: 'hello@greenbeauty.com'
+      details: 'hello@boscoapparel.com'
     },
     {
       icon: Clock,
@@ -91,9 +91,9 @@ const ContactUs: React.FC = () => {
               <Leaf className="w-5 h-5" style={{ color: 'hsl(142.1, 76.2%, 36.3%)' }} />
             </div>
           </div>
-          <h1 className="text-3xl font-bold text-gray-900 mb-2">Contact Green Beauty</h1>
+          <h1 className="text-3xl font-bold text-gray-900 mb-2">Contact Bosco Apparel</h1>
           <p className="text-gray-600 max-w-xl mx-auto">
-            Reach out to us for questions about our natural, eco-friendly cosmetics
+            Reach out to us for questions about our manufacture,or any other inquiries. We’re here to help and would love to hear from you!
           </p>
         </div>
 

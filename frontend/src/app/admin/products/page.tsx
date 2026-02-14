@@ -169,7 +169,7 @@ export default function ProductsPage() {
           <h1 className="text-3xl font-bold text-white">
             Product Management
           </h1>
-          <p className="text-gray-400">Manage your cosmetics product catalog</p>
+          <p className="text-gray-400">Manage your s product catalog</p>
         </div>
         <div className="flex items-center space-x-2">
           {/* <Button variant="outline" size="sm">

@@ -61,7 +61,7 @@ export default function AdminDashboard() {
       <div className="flex items-center justify-between">
         <div>
           <h1 className="text-3xl font-bold text-white">Dashboard</h1>
-          <p className="text-gray-400">{"Welcome back! Here's what's happening with your cosmetics store."}</p>
+          <p className="text-gray-400">{"Welcome back! Here's what's happening with your Clothing Manufacturing Garment"}</p>
         </div>
       </div>
 

@@ -88,7 +88,7 @@ export default function Hero() {
             <div className="relative rounded-3xl overflow-hidden shadow-2xl transform rotate-2 hover:rotate-0 transition-transform duration-500">
               <Image
                 src={img1}
-                alt="Natural Cosmetic Products"
+                alt="Quality Garment Manufacturing"
                 className="w-full h-[450px] sm:h-[500px] object-cover"
                 priority
               />
@@ -107,7 +107,7 @@ export default function Hero() {
             <div className="absolute -bottom-[40px] sm:-bottom-8 translate-x-[-50%] sm:translate-x-0 left-[50%] sm:-left-8 w-52 h-52 sm:w-64 sm:h-64 rounded-2xl overflow-hidden shadow-2xl transform -rotate-[20deg] border-4 border-white">
               <Image
                 src={img2}
-                alt="Natural Makeup Application"
+                alt="Quality Garment Manufacturing"
                 className="w-full h-full object-cover"
               />
             </div>

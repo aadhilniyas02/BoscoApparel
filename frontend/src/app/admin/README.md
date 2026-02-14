@@ -1,6 +1,6 @@
 # Admin Dashboard - Cosmetics E-Commerce
 
-A comprehensive admin dashboard for managing a cosmetics e-commerce platform built with Next.js, ShadCN UI, and TailwindCSS.
+A comprehensive admin dashboard for managing a Clothing Wholesale e-commerce platform built with Next.js, ShadCN UI, and TailwindCSS.
 
 ## Features
 

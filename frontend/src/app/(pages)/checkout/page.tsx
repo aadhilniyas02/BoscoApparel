@@ -172,7 +172,7 @@ export default function CheckoutPage() {
                       id="name"
                       value={formData.name}
                       onChange={handleInputChange}
-                      placeholder="John Doe"
+                      placeholder="Aadhil"
                       className="h-12 rounded-xl bg-white/5 border-white/10 text-white placeholder:text-gray-500 focus:border-white focus:ring-2 focus:ring-white/20 transition-all"
                     />
                   </div>
@@ -189,7 +189,7 @@ export default function CheckoutPage() {
                       type="email"
                       value={formData.email}
                       onChange={handleInputChange}
-                      placeholder="johndoe@email.com"
+                      placeholder="aadhil@email.com"
                       className="h-12 rounded-xl bg-white/5 border-white/10 text-white placeholder:text-gray-500 focus:border-white focus:ring-2 focus:ring-white/20 transition-all"
                     />
                   </div>
@@ -206,7 +206,7 @@ export default function CheckoutPage() {
                       type="tel"
                       value={formData.phone}
                       onChange={handleInputChange}
-                      placeholder="+92 9876543210"
+                      placeholder="0761234567"
                       className="h-12 rounded-xl bg-white/5 border-white/10 text-white placeholder:text-gray-500 focus:border-white focus:ring-2 focus:ring-white/20 transition-all"
                     />
                   </div>
@@ -235,7 +235,7 @@ export default function CheckoutPage() {
                       id="address"
                       value={formData.address}
                       onChange={handleInputChange}
-                      placeholder="123 Main St"
+                      placeholder="191 Main Street"
                       className="h-12 rounded-xl bg-white/5 border-white/10 text-white placeholder:text-gray-500 focus:border-white focus:ring-2 focus:ring-white/20 transition-all"
                     />
                   </div>
@@ -250,7 +250,7 @@ export default function CheckoutPage() {
                       id="city"
                       value={formData.city}
                       onChange={handleInputChange}
-                      placeholder="Karachi"
+                      placeholder="Matale"
                       className="h-12 rounded-xl bg-white/5 border-white/10 text-white placeholder:text-gray-500 focus:border-white focus:ring-2 focus:ring-white/20 transition-all"
                     />
                   </div>
@@ -265,7 +265,7 @@ export default function CheckoutPage() {
                       id="zipCode"
                       value={formData.zipCode}
                       onChange={handleInputChange}
-                      placeholder="400001"
+                      placeholder="21000"
                       className="h-12 rounded-xl bg-white/5 border-white/10 text-white placeholder:text-gray-500 focus:border-white focus:ring-2 focus:ring-white/20 transition-all"
                     />
                   </div>
