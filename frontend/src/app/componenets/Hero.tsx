@@ -46,8 +46,8 @@ export default function Hero() {
               </h1>
 
               <p className="text-lg md:text-xl text-gray-400 leading-relaxed max-w-lg">
-                From design to delivery, Your One Stop Garment Partner - Crafting With Care
-                Contact to start your own clothing line
+                From Design to Delivery | Your One Stop Garment Partner - Crafting With Care
+               
               </p>
             </div>
 
