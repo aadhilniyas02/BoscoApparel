@@ -10,7 +10,7 @@ import {
 } from "../redux/features/products/productApi";
 import { Product } from "../redux/features/products/types";
 import { Skeleton } from "@/components/ui/skeleton";
-import defaultimg from '../../../public/HeroImages/defaultimg.png'
+import defaultimg from '../../../public/HeroImages/defaultimg.jpg';
 
 const SearchBar: React.FC = () => {
   const [searchQuery, setSearchQuery] = useState("");

@@ -18,7 +18,7 @@ import {
   removeFromCart,
 } from "../redux/features/cart/cartSlice";
 import { ShoppingCart } from "lucide-react";
-import defaultimg from "../../../public/HeroImages/defaultimg.png";
+import defaultimg from "../../../public/HeroImages/defaultimg.jpg";
 
 type ShoppingCartDrawerProps = {
   open: boolean;

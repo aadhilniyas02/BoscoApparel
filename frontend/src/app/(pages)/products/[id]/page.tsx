@@ -15,7 +15,7 @@ import { Product } from "@/app/redux/features/products/types";
 import { useDispatch } from "react-redux";
 import { addToCart } from "@/app/redux/features/cart/cartSlice";
 import { ProductDetailsSkeleton } from "@/app/componenets/Skeleton";
-import defaultimg from "../../../../../public/HeroImages/defaultimg.png";
+import defaultimg from "../../../../../public/HeroImages/defaultimg.jpg";
 import toast from "react-hot-toast";
 
 export default function SingleProduct() {
